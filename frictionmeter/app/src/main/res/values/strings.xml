@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FrictionMeter</string>
+    <string name="pref_syncConnectionTypes_default" />
+    <string name="var">Var: </string>
+    <string name="actualFriction">Actual Friction</string>
+    <string name="average">Average</string>
+    <string name="avg">Avg: </string>
+    <string name="next">Next</string>
+    <string name="varP">Var%: </string>
+    <string name="delete">Delete</string>
+    <string name="reset">Reset</string>
+    <string name="export">Export</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="prev">Prev</string>
+
+</resources>
